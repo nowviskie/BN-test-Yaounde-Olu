@@ -1,0 +1,1268 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://nowviskie.github.io/BN-test-Yaounde-Olu/interview-with-yaound-olu-artist-writer-astrologer-uniphysician-chicago-illinois/canvas-1/canvas/transcription.json",
+  "type": "AnnotationPage",
+  "label": "Transcription",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://nowviskie.github.io/BN-test-Yaounde-Olu/interview-with-yaound-olu-artist-writer-astrologer-uniphysician-chicago-illinois/canvas-1/canvas/transcription-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=\"#0a3c53\">We're speaking with Yaoundé Olu. Hi Yaoundé.</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://nowviskie.github.io/BN-test-Yaounde-Olu/interview-with-yaound-olu-artist-writer-astrologer-uniphysician-chicago-illinois/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "11.956696,19.487433"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://nowviskie.github.io/BN-test-Yaounde-Olu/interview-with-yaound-olu-artist-writer-astrologer-uniphysician-chicago-illinois/canvas-1/canvas/transcription-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=\"#008080\">Hi.</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://nowviskie.github.io/BN-test-Yaounde-Olu/interview-with-yaound-olu-artist-writer-astrologer-uniphysician-chicago-illinois/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "19.487433,20.081965"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://nowviskie.github.io/BN-test-Yaounde-Olu/interview-with-yaound-olu-artist-writer-astrologer-uniphysician-chicago-illinois/canvas-1/canvas/transcription-annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=\"#0a3c53\">Now. Once upon a time, there was a girl named Joyce Bowens, right?</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://nowviskie.github.io/BN-test-Yaounde-Olu/interview-with-yaound-olu-artist-writer-astrologer-uniphysician-chicago-illinois/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "22.129797,28.47147"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://nowviskie.github.io/BN-test-Yaounde-Olu/interview-with-yaound-olu-artist-writer-astrologer-uniphysician-chicago-illinois/canvas-1/canvas/transcription-annotation-3.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=\"#008080\">Joyce Bowen. B-o-w-e-n.</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://nowviskie.github.io/BN-test-Yaounde-Olu/interview-with-yaound-olu-artist-writer-astrologer-uniphysician-chicago-illinois/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "28.47147,32.10472"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://nowviskie.github.io/BN-test-Yaounde-Olu/interview-with-yaound-olu-artist-writer-astrologer-uniphysician-chicago-illinois/canvas-1/canvas/transcription-annotation-4.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=\"#0a3c53\">And she was born somewhere at some time, presumably. When did that take place?</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://nowviskie.github.io/BN-test-Yaounde-Olu/interview-with-yaound-olu-artist-writer-astrologer-uniphysician-chicago-illinois/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "33.095606,37.719743"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://nowviskie.github.io/BN-test-Yaounde-Olu/interview-with-yaound-olu-artist-writer-astrologer-uniphysician-chicago-illinois/canvas-1/canvas/transcription-annotation-5.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=\"#008080\">Well, Joyce Patricia Bowen was born November 15, 1945.</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://nowviskie.github.io/BN-test-Yaounde-Olu/interview-with-yaound-olu-artist-writer-astrologer-uniphysician-chicago-illinois/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "37.719743,43.334766"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://nowviskie.github.io/BN-test-Yaounde-Olu/interview-with-yaound-olu-artist-writer-astrologer-uniphysician-chicago-illinois/canvas-1/canvas/transcription-annotation-6.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=\"#0a3c53\">Where?</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://nowviskie.github.io/BN-test-Yaounde-Olu/interview-with-yaound-olu-artist-writer-astrologer-uniphysician-chicago-illinois/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "43.665061,44.589889"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://nowviskie.github.io/BN-test-Yaounde-Olu/interview-with-yaound-olu-artist-writer-astrologer-uniphysician-chicago-illinois/canvas-1/canvas/transcription-annotation-7.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=\"#008080\">In Chicago, Illinois.</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://nowviskie.github.io/BN-test-Yaounde-Olu/interview-with-yaound-olu-artist-writer-astrologer-uniphysician-chicago-illinois/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "44.589889,46.241366"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://nowviskie.github.io/BN-test-Yaounde-Olu/interview-with-yaound-olu-artist-writer-astrologer-uniphysician-chicago-illinois/canvas-1/canvas/transcription-annotation-8.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=\"#0a3c53\">I see. And what did she do then?</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://nowviskie.github.io/BN-test-Yaounde-Olu/interview-with-yaound-olu-artist-writer-astrologer-uniphysician-chicago-illinois/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "46.637721,48.69381"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://nowviskie.github.io/BN-test-Yaounde-Olu/interview-with-yaound-olu-artist-writer-astrologer-uniphysician-chicago-illinois/canvas-1/canvas/transcription-annotation-9.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=\"#008080\">She began to observe the world around her.</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://nowviskie.github.io/BN-test-Yaounde-Olu/interview-with-yaound-olu-artist-writer-astrologer-uniphysician-chicago-illinois/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "50.048022,52.112368"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://nowviskie.github.io/BN-test-Yaounde-Olu/interview-with-yaound-olu-artist-writer-astrologer-uniphysician-chicago-illinois/canvas-1/canvas/transcription-annotation-10.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=\"#0a3c53\">This is good. And I'm sure that she came up with some interesting observations.</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://nowviskie.github.io/BN-test-Yaounde-Olu/interview-with-yaound-olu-artist-writer-astrologer-uniphysician-chicago-illinois/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "52.971136,57.281492"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://nowviskie.github.io/BN-test-Yaounde-Olu/interview-with-yaound-olu-artist-writer-astrologer-uniphysician-chicago-illinois/canvas-1/canvas/transcription-annotation-11.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=\"#008080\">Yes, she did. She found life to be very strange and interesting. </font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://nowviskie.github.io/BN-test-Yaounde-Olu/interview-with-yaound-olu-artist-writer-astrologer-uniphysician-chicago-illinois/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "58.338438,63.391959"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://nowviskie.github.io/BN-test-Yaounde-Olu/interview-with-yaound-olu-artist-writer-astrologer-uniphysician-chicago-illinois/canvas-1/canvas/transcription-annotation-12.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=\"#0a3c53\">Mmhmm. Yes?</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://nowviskie.github.io/BN-test-Yaounde-Olu/interview-with-yaound-olu-artist-writer-astrologer-uniphysician-chicago-illinois/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "66.348103,67.99958"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://nowviskie.github.io/BN-test-Yaounde-Olu/interview-with-yaound-olu-artist-writer-astrologer-uniphysician-chicago-illinois/canvas-1/canvas/transcription-annotation-13.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=\"#008080\">And um... birth to me was like-- just a minute, do you want it to be this...? I mean, I'm, you know...</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://nowviskie.github.io/BN-test-Yaounde-Olu/interview-with-yaound-olu-artist-writer-astrologer-uniphysician-chicago-illinois/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "69.469395,80.327859"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://nowviskie.github.io/BN-test-Yaounde-Olu/interview-with-yaound-olu-artist-writer-astrologer-uniphysician-chicago-illinois/canvas-1/canvas/transcription-annotation-14.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=\"#0a3c53\">Speak your mind.</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://nowviskie.github.io/BN-test-Yaounde-Olu/interview-with-yaound-olu-artist-writer-astrologer-uniphysician-chicago-illinois/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "81.607754,82.507809"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://nowviskie.github.io/BN-test-Yaounde-Olu/interview-with-yaound-olu-artist-writer-astrologer-uniphysician-chicago-illinois/canvas-1/canvas/transcription-annotation-15.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=\"#008080\">Wait, turn-- turn that off for a minute.</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://nowviskie.github.io/BN-test-Yaounde-Olu/interview-with-yaound-olu-artist-writer-astrologer-uniphysician-chicago-illinois/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "82.895906,84.357464"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://nowviskie.github.io/BN-test-Yaounde-Olu/interview-with-yaound-olu-artist-writer-astrologer-uniphysician-chicago-illinois/canvas-1/canvas/transcription-annotation-16.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=\"#008080\">My earliest experiences, in terms -- you know, with life, were very interesting. And they filled me with a desire to experience life in its fullest. You know, and gave me a positive attitude to try to do as best as I possibly could in life, in whatever it was that I wanted to do. I felt this very early in life.</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://nowviskie.github.io/BN-test-Yaounde-Olu/interview-with-yaound-olu-artist-writer-astrologer-uniphysician-chicago-illinois/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "87.008085,110.888448"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://nowviskie.github.io/BN-test-Yaounde-Olu/interview-with-yaound-olu-artist-writer-astrologer-uniphysician-chicago-illinois/canvas-1/canvas/transcription-annotation-17.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=\"#0a3c53\">I see. And when did your artistic tendencies begin to really-- When did you become aware of your artistic tendencies?</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://nowviskie.github.io/BN-test-Yaounde-Olu/interview-with-yaound-olu-artist-writer-astrologer-uniphysician-chicago-illinois/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "113.225288,122.902945"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://nowviskie.github.io/BN-test-Yaounde-Olu/interview-with-yaound-olu-artist-writer-astrologer-uniphysician-chicago-illinois/canvas-1/canvas/transcription-annotation-18.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=\"#008080\">Well, my mother says that she has a drawing that I did when I was two years old. A recognizable baby buggy, she said it was really a baby buggy. And I think she still has it. But that was the first drawing I did. But I would like to say that I was influenced a great deal by my father too. My mother and my-- my parents are very interested in, you know, they like art.</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://nowviskie.github.io/BN-test-Yaounde-Olu/interview-with-yaound-olu-artist-writer-astrologer-uniphysician-chicago-illinois/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "123.563536,149.392642"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://nowviskie.github.io/BN-test-Yaounde-Olu/interview-with-yaound-olu-artist-writer-astrologer-uniphysician-chicago-illinois/canvas-1/canvas/transcription-annotation-19.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=\"#0a3c53\">And my father was an artist. He wanted to be an artist, but he ended up with children, so he settled for doing other things, and sacrifices art. And that's why he has encouraged me to pursue art.</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://nowviskie.github.io/BN-test-Yaounde-Olu/interview-with-yaound-olu-artist-writer-astrologer-uniphysician-chicago-illinois/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "149.392642,166.601036"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://nowviskie.github.io/BN-test-Yaounde-Olu/interview-with-yaound-olu-artist-writer-astrologer-uniphysician-chicago-illinois/canvas-1/canvas/transcription-annotation-20.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=\"#0a3c53\">He did murals of Popeye and Olive Oyl and people like that on my walls when I was a child, like two years old. So that was a great influence on me. You know, having art around me -- watching him, you know, actually paint and draw.</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://nowviskie.github.io/BN-test-Yaounde-Olu/interview-with-yaound-olu-artist-writer-astrologer-uniphysician-chicago-illinois/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "166.601036,185.460908"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://nowviskie.github.io/BN-test-Yaounde-Olu/interview-with-yaound-olu-artist-writer-astrologer-uniphysician-chicago-illinois/canvas-1/canvas/transcription-annotation-21.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=\"#008080\">And then I stick my hand in the water.</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://nowviskie.github.io/BN-test-Yaounde-Olu/interview-with-yaound-olu-artist-writer-astrologer-uniphysician-chicago-illinois/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "186.187558,187.839035"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://nowviskie.github.io/BN-test-Yaounde-Olu/interview-with-yaound-olu-artist-writer-astrologer-uniphysician-chicago-illinois/canvas-1/canvas/transcription-annotation-22.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=\"#0a3c53\">Yes, well that's probably what it was there for. Anyway. So now, we have the two year old drawing -- the painting at two. Do you still have it?</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://nowviskie.github.io/BN-test-Yaounde-Olu/interview-with-yaound-olu-artist-writer-astrologer-uniphysician-chicago-illinois/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "188.697804,198.738786"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://nowviskie.github.io/BN-test-Yaounde-Olu/interview-with-yaound-olu-artist-writer-astrologer-uniphysician-chicago-illinois/canvas-1/canvas/transcription-annotation-23.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=\"#008080\">I think my mother has it. She keeps, she tells me about it but I haven't even looked at it.</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://nowviskie.github.io/BN-test-Yaounde-Olu/interview-with-yaound-olu-artist-writer-astrologer-uniphysician-chicago-illinois/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "199.432406,204.122602"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://nowviskie.github.io/BN-test-Yaounde-Olu/interview-with-yaound-olu-artist-writer-astrologer-uniphysician-chicago-illinois/canvas-1/canvas/transcription-annotation-24.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=\"#0a3c53\">What media is it in? What does it look like?</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://nowviskie.github.io/BN-test-Yaounde-Olu/interview-with-yaound-olu-artist-writer-astrologer-uniphysician-chicago-illinois/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "204.122602,206.071345"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://nowviskie.github.io/BN-test-Yaounde-Olu/interview-with-yaound-olu-artist-writer-astrologer-uniphysician-chicago-illinois/canvas-1/canvas/transcription-annotation-25.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=\"#008080\">It's probably pencil. Probably pencil or crayon. I'm gonna have to ask her about that. I should have, you know, I've been meaning to ask her. We never, I never get a chance to talk about it now. But she says that somewhere she has a drawing of a recognizable baby buggy that I did at age two.</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://nowviskie.github.io/BN-test-Yaounde-Olu/interview-with-yaound-olu-artist-writer-astrologer-uniphysician-chicago-illinois/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "206.071345,225.45969"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://nowviskie.github.io/BN-test-Yaounde-Olu/interview-with-yaound-olu-artist-writer-astrologer-uniphysician-chicago-illinois/canvas-1/canvas/transcription-annotation-26.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=\"#0a3c53\">This is extremely interesting. But now could we move on and see, when did the next little artistic happening develop?</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://nowviskie.github.io/BN-test-Yaounde-Olu/interview-with-yaound-olu-artist-writer-astrologer-uniphysician-chicago-illinois/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "225.988162,234.047372"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://nowviskie.github.io/BN-test-Yaounde-Olu/interview-with-yaound-olu-artist-writer-astrologer-uniphysician-chicago-illinois/canvas-1/canvas/transcription-annotation-27.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=\"#008080\">Well, as a child I always like to create. I lived quite a bit in my imagination: Moon in Pisces [inaudible] in Sun and Scorpio in Saturn. But I had a fantastic imagination. And I was always creating.</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://nowviskie.github.io/BN-test-Yaounde-Olu/interview-with-yaound-olu-artist-writer-astrologer-uniphysician-chicago-illinois/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "235.797938,256.540494"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://nowviskie.github.io/BN-test-Yaounde-Olu/interview-with-yaound-olu-artist-writer-astrologer-uniphysician-chicago-illinois/canvas-1/canvas/transcription-annotation-28.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=\"#008080\">And I was always inspired by others around me who were creating. So I used to go to museums, you know, my parents would take us out, on outings. And I used to look at-- go to the library. I spent a lot of time in the library reading books about the old masters and you know, really getting off into the imaginary world of Botticelli and Tintoretto and those people, you know?</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://nowviskie.github.io/BN-test-Yaounde-Olu/interview-with-yaound-olu-artist-writer-astrologer-uniphysician-chicago-illinois/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "257.663498,286.465264"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://nowviskie.github.io/BN-test-Yaounde-Olu/interview-with-yaound-olu-artist-writer-astrologer-uniphysician-chicago-illinois/canvas-1/canvas/transcription-annotation-29.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=\"#0a3c53\">I don't know, but I'll take your word for it.</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://nowviskie.github.io/BN-test-Yaounde-Olu/interview-with-yaound-olu-artist-writer-astrologer-uniphysician-chicago-illinois/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "286.828589,289.206716"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://nowviskie.github.io/BN-test-Yaounde-Olu/interview-with-yaound-olu-artist-writer-astrologer-uniphysician-chicago-illinois/canvas-1/canvas/transcription-annotation-30.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=\"#008080\">Well, they were early artists. And at that time, I was not aware of any significant Black art influences, So that's where my early experiences came from. The old European masters because that's what was available in the school libraries at the time.</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://nowviskie.github.io/BN-test-Yaounde-Olu/interview-with-yaound-olu-artist-writer-astrologer-uniphysician-chicago-illinois/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "289.206716,305.424224"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://nowviskie.github.io/BN-test-Yaounde-Olu/interview-with-yaound-olu-artist-writer-astrologer-uniphysician-chicago-illinois/canvas-1/canvas/transcription-annotation-31.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=\"#008080\">Wouldn't it be more [inaudible]?</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://nowviskie.github.io/BN-test-Yaounde-Olu/interview-with-yaound-olu-artist-writer-astrologer-uniphysician-chicago-illinois/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "305.853608,307.14176"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://nowviskie.github.io/BN-test-Yaounde-Olu/interview-with-yaound-olu-artist-writer-astrologer-uniphysician-chicago-illinois/canvas-1/canvas/transcription-annotation-32.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=\"#0a3c53\">So what age were you when you were digging these European masters in the grammar school?</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://nowviskie.github.io/BN-test-Yaounde-Olu/interview-with-yaound-olu-artist-writer-astrologer-uniphysician-chicago-illinois/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "308.793237,312.723754"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://nowviskie.github.io/BN-test-Yaounde-Olu/interview-with-yaound-olu-artist-writer-astrologer-uniphysician-chicago-illinois/canvas-1/canvas/transcription-annotation-33.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=\"#008080\">Nine, ten, eleven.</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://nowviskie.github.io/BN-test-Yaounde-Olu/interview-with-yaound-olu-artist-writer-astrologer-uniphysician-chicago-illinois/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "312.723754,314.144024"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://nowviskie.github.io/BN-test-Yaounde-Olu/interview-with-yaound-olu-artist-writer-astrologer-uniphysician-chicago-illinois/canvas-1/canvas/transcription-annotation-34.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=\"#0a3c53\">And were you painting and drawing then?</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://nowviskie.github.io/BN-test-Yaounde-Olu/interview-with-yaound-olu-artist-writer-astrologer-uniphysician-chicago-illinois/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "314.771586,316.489122"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://nowviskie.github.io/BN-test-Yaounde-Olu/interview-with-yaound-olu-artist-writer-astrologer-uniphysician-chicago-illinois/canvas-1/canvas/transcription-annotation-35.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=\"#008080\">Yes, I was. In fact that I had a portfolio at age 11.</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://nowviskie.github.io/BN-test-Yaounde-Olu/interview-with-yaound-olu-artist-writer-astrologer-uniphysician-chicago-illinois/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "317.34789,320.386609"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://nowviskie.github.io/BN-test-Yaounde-Olu/interview-with-yaound-olu-artist-writer-astrologer-uniphysician-chicago-illinois/canvas-1/canvas/transcription-annotation-36.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=\"#0a3c53\">When, when--</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://nowviskie.github.io/BN-test-Yaounde-Olu/interview-with-yaound-olu-artist-writer-astrologer-uniphysician-chicago-illinois/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "320.386609,321.575672"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://nowviskie.github.io/BN-test-Yaounde-Olu/interview-with-yaound-olu-artist-writer-astrologer-uniphysician-chicago-illinois/canvas-1/canvas/transcription-annotation-37.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=\"#008080\">Portfolio. You know, with a number of drawings neatly arranged and everything in place.</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://nowviskie.github.io/BN-test-Yaounde-Olu/interview-with-yaound-olu-artist-writer-astrologer-uniphysician-chicago-illinois/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "321.575672,327.190695"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://nowviskie.github.io/BN-test-Yaounde-Olu/interview-with-yaound-olu-artist-writer-astrologer-uniphysician-chicago-illinois/canvas-1/canvas/transcription-annotation-38.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=\"#0a3c53\">When did you start drawing seriously like that?</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://nowviskie.github.io/BN-test-Yaounde-Olu/interview-with-yaound-olu-artist-writer-astrologer-uniphysician-chicago-illinois/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "327.190695,329.502764"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://nowviskie.github.io/BN-test-Yaounde-Olu/interview-with-yaound-olu-artist-writer-astrologer-uniphysician-chicago-illinois/canvas-1/canvas/transcription-annotation-39.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=\"#008080\">You know, all my life, whatever I've done, I've done it seriously. So whenever I drew, I drew seriously at school. Whatever I did, I did seriously. I'd like to add to this point, though, that I was just not into art by itself. Art provided a world of escape. A world of images and pictures.</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://nowviskie.github.io/BN-test-Yaounde-Olu/interview-with-yaound-olu-artist-writer-astrologer-uniphysician-chicago-illinois/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "332.772689,350.245319"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://nowviskie.github.io/BN-test-Yaounde-Olu/interview-with-yaound-olu-artist-writer-astrologer-uniphysician-chicago-illinois/canvas-1/canvas/transcription-annotation-40.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=\"#008080\">And I had a very fertile imagination, and I enjoyed being in that world. But I also developed a lot of other interests when I was younger that I think also influenced my art. For example, I had a friend who was a tree, outside my window, very early in life. So, because of that, and because every spring, I would be able to watch this tree develop from bud to full-fledged, blossom-- blooming, a blooming plant or tree.</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://nowviskie.github.io/BN-test-Yaounde-Olu/interview-with-yaound-olu-artist-writer-astrologer-uniphysician-chicago-illinois/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "350.245319,380.632503"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://nowviskie.github.io/BN-test-Yaounde-Olu/interview-with-yaound-olu-artist-writer-astrologer-uniphysician-chicago-illinois/canvas-1/canvas/transcription-annotation-41.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=\"#008080\">It gave me an appreciation for creation also, and an appreciation for nature. So, I've had a lot of other interests. I was an outdoor person. I liked sunshine, I liked all kinds of sports and what have you. I wasn't the quiet kind of little girl who sat at home all the time. I enjoyed being outside and experiencing life. It was not all roses, of course, but it was all intense.</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://nowviskie.github.io/BN-test-Yaounde-Olu/interview-with-yaound-olu-artist-writer-astrologer-uniphysician-chicago-illinois/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "380.632503,412.20875"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://nowviskie.github.io/BN-test-Yaounde-Olu/interview-with-yaound-olu-artist-writer-astrologer-uniphysician-chicago-illinois/canvas-1/canvas/transcription-annotation-42.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=\"#0a3c53\">I see. So in other words, with that drawing at age two, you've been drawing-- just as all children draw-- you've been doing this all your life. This one mode of expression has been with you all your life.</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://nowviskie.github.io/BN-test-Yaounde-Olu/interview-with-yaound-olu-artist-writer-astrologer-uniphysician-chicago-illinois/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "412.9354,421.853378"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://nowviskie.github.io/BN-test-Yaounde-Olu/interview-with-yaound-olu-artist-writer-astrologer-uniphysician-chicago-illinois/canvas-1/canvas/transcription-annotation-43.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=\"#008080\">Right, right, it is.</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://nowviskie.github.io/BN-test-Yaounde-Olu/interview-with-yaound-olu-artist-writer-astrologer-uniphysician-chicago-illinois/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "421.853378,424.099387"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://nowviskie.github.io/BN-test-Yaounde-Olu/interview-with-yaound-olu-artist-writer-astrologer-uniphysician-chicago-illinois/canvas-1/canvas/transcription-annotation-44.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=\"#0a3c53\">You had a portfolio at age 11. Characterize a little bit of your development for us over your teen years.</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://nowviskie.github.io/BN-test-Yaounde-Olu/interview-with-yaound-olu-artist-writer-astrologer-uniphysician-chicago-illinois/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "425.552687,433.083424"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://nowviskie.github.io/BN-test-Yaounde-Olu/interview-with-yaound-olu-artist-writer-astrologer-uniphysician-chicago-illinois/canvas-1/canvas/transcription-annotation-45.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=\"#008080\">Well during my teen years, I lost my intense desire to be with nature as much as I had, as opposed to my earlier years. But my adolescent years were very physical years. I remember, you know, discovering what it meant to be a girl.</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://nowviskie.github.io/BN-test-Yaounde-Olu/interview-with-yaound-olu-artist-writer-astrologer-uniphysician-chicago-illinois/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "434.933079,460.762184"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://nowviskie.github.io/BN-test-Yaounde-Olu/interview-with-yaound-olu-artist-writer-astrologer-uniphysician-chicago-illinois/canvas-1/canvas/transcription-annotation-46.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=\"#008080\">At that point, I began to-- my body began to change, so I began to view the world around me differently. And my interests began to be centered upon personality and human relationships and, you know, early romance, things like that.</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://nowviskie.github.io/BN-test-Yaounde-Olu/interview-with-yaound-olu-artist-writer-astrologer-uniphysician-chicago-illinois/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "460.762184,480.117499"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://nowviskie.github.io/BN-test-Yaounde-Olu/interview-with-yaound-olu-artist-writer-astrologer-uniphysician-chicago-illinois/canvas-1/canvas/transcription-annotation-47.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=\"#008080\">Do you want me to talk about these things?</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://nowviskie.github.io/BN-test-Yaounde-Olu/interview-with-yaound-olu-artist-writer-astrologer-uniphysician-chicago-illinois/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "481.488225,483.519543"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://nowviskie.github.io/BN-test-Yaounde-Olu/interview-with-yaound-olu-artist-writer-astrologer-uniphysician-chicago-illinois/canvas-1/canvas/transcription-annotation-48.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=\"#0a3c53\">Yes, well romance is obviously an important part of life, and it ties up our emotions and may be closely related to creativity. Yaoundé, I wanted to ask you, you discovered what it meant to be a girl, a woman. What does it mean?</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://nowviskie.github.io/BN-test-Yaounde-Olu/interview-with-yaound-olu-artist-writer-astrologer-uniphysician-chicago-illinois/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "483.816808,499.73705"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://nowviskie.github.io/BN-test-Yaounde-Olu/interview-with-yaound-olu-artist-writer-astrologer-uniphysician-chicago-illinois/canvas-1/canvas/transcription-annotation-49.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=\"#008080\">Well, at that time I was learning more, not just what it meant to be a girl psychologically and spiritually, because I'm still learning that today. But I'm talking about learning the ritual that most human beings go through in order to be acculturized. </font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://nowviskie.github.io/BN-test-Yaounde-Olu/interview-with-yaound-olu-artist-writer-astrologer-uniphysician-chicago-illinois/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "502.313355,526.424924"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://nowviskie.github.io/BN-test-Yaounde-Olu/interview-with-yaound-olu-artist-writer-astrologer-uniphysician-chicago-illinois/canvas-1/canvas/transcription-annotation-50.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=\"#0a3c53\">A socialization process.</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://nowviskie.github.io/BN-test-Yaounde-Olu/interview-with-yaound-olu-artist-writer-astrologer-uniphysician-chicago-illinois/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "526.689161,528.20852"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://nowviskie.github.io/BN-test-Yaounde-Olu/interview-with-yaound-olu-artist-writer-astrologer-uniphysician-chicago-illinois/canvas-1/canvas/transcription-annotation-51.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=\"#008080\">Exactly.</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://nowviskie.github.io/BN-test-Yaounde-Olu/interview-with-yaound-olu-artist-writer-astrologer-uniphysician-chicago-illinois/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "528.20852,528.93517"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://nowviskie.github.io/BN-test-Yaounde-Olu/interview-with-yaound-olu-artist-writer-astrologer-uniphysician-chicago-illinois/canvas-1/canvas/transcription-annotation-52.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=\"#0a3c53\">An acculturation process.</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://nowviskie.github.io/BN-test-Yaounde-Olu/interview-with-yaound-olu-artist-writer-astrologer-uniphysician-chicago-illinois/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "529.265466,530.520588"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://nowviskie.github.io/BN-test-Yaounde-Olu/interview-with-yaound-olu-artist-writer-astrologer-uniphysician-chicago-illinois/canvas-1/canvas/transcription-annotation-53.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=\"#008080\">Right. For example, girls don't stand on the corner. You know, girls don't hang in the schoolyard with the boys after dark.</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://nowviskie.github.io/BN-test-Yaounde-Olu/interview-with-yaound-olu-artist-writer-astrologer-uniphysician-chicago-illinois/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "530.520588,538.645857"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://nowviskie.github.io/BN-test-Yaounde-Olu/interview-with-yaound-olu-artist-writer-astrologer-uniphysician-chicago-illinois/canvas-1/canvas/transcription-annotation-54.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=\"#0a3c53\">Where did you pick up these values from? From observed behavior or from an older relative?</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://nowviskie.github.io/BN-test-Yaounde-Olu/interview-with-yaound-olu-artist-writer-astrologer-uniphysician-chicago-illinois/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "538.645857,543.600289"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://nowviskie.github.io/BN-test-Yaounde-Olu/interview-with-yaound-olu-artist-writer-astrologer-uniphysician-chicago-illinois/canvas-1/canvas/transcription-annotation-55.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=\"#008080\">To be perfectly honest and truthful I do not know. Subliminal influences are around us continually. So, it's not always-- I don't think we're always conscious of the machine input that we automatically respond to continually.</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://nowviskie.github.io/BN-test-Yaounde-Olu/interview-with-yaound-olu-artist-writer-astrologer-uniphysician-chicago-illinois/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "543.930585,561.964717"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://nowviskie.github.io/BN-test-Yaounde-Olu/interview-with-yaound-olu-artist-writer-astrologer-uniphysician-chicago-illinois/canvas-1/canvas/transcription-annotation-56.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=\"#008080\">So we develop, you know, these roles that just absorb, I mean, the role concepts are absorbed and we respond automatically based on patterns that were established earlier. You know, based on that big-T \"Tradition\". You see. </font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://nowviskie.github.io/BN-test-Yaounde-Olu/interview-with-yaound-olu-artist-writer-astrologer-uniphysician-chicago-illinois/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "561.964717,579.536436"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://nowviskie.github.io/BN-test-Yaounde-Olu/interview-with-yaound-olu-artist-writer-astrologer-uniphysician-chicago-illinois/canvas-1/canvas/transcription-annotation-57.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=\"#0a3c53\">I see. When did you first start to publicly display your works and gain your present community stature?</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://nowviskie.github.io/BN-test-Yaounde-Olu/interview-with-yaound-olu-artist-writer-astrologer-uniphysician-chicago-illinois/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "579.536436,588.520473"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://nowviskie.github.io/BN-test-Yaounde-Olu/interview-with-yaound-olu-artist-writer-astrologer-uniphysician-chicago-illinois/canvas-1/canvas/transcription-annotation-58.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=\"#008080\">Well, like I said, my teen years were more concerned-- were dealing more with my physical and social development. But in high school I went through a number of changes in terms of trying to decide what I was going to do.</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://nowviskie.github.io/BN-test-Yaounde-Olu/interview-with-yaound-olu-artist-writer-astrologer-uniphysician-chicago-illinois/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "588.982887,606.554606"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://nowviskie.github.io/BN-test-Yaounde-Olu/interview-with-yaound-olu-artist-writer-astrologer-uniphysician-chicago-illinois/canvas-1/canvas/transcription-annotation-59.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=\"#008080\">I had an academic-- I was in the academic curriculum, but I qualified for what they called Art Major. So I had Art Major. And, but I developed a fantastic interest in science and also in music. In fact I got a little-- I won the John Phillip Sousa Award, which was one of the highest awards you could get at that time. In elementary school-- I mean, in high school, for music.</font>",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://nowviskie.github.io/BN-test-Yaounde-Olu/interview-with-yaound-olu-artist-writer-astrologer-uniphysician-chicago-illinois/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "606.554606,632.053417"
+        }
+      }
+    }
+  ]
+}
