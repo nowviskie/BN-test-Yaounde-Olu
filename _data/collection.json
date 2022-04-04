@@ -1,0 +1,9 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://example.com/collection.json",
+    "type": "Collection",
+    "label": { "en": [ "Interview with Yaoundé Olu: artist, writer, astrologer, uniphysician, Chicago, Illinois" ] },
+    "summary": { "en": [ "Interview at the Mellow Yellow restaurant; fieldworker's notes provide the birth name Joyce Patricia Bowers (b. 1945), discussion of Yaounde Olu's childhood creativity, about teen years and maturation, \"the science of art and the art of science,\" higher education Chicago Teachers College and elsewhere, traveled in Europe and, in late 1960s, felt strong affinity with Africa and Yoruba culture, developed ideas about uniphysics, about African American creativity in Chicago, states that \"artists create the future.\"" ] },
+    "items": [
+    ]
+}
