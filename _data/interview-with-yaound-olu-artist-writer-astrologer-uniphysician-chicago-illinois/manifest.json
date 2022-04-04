@@ -27,6 +27,12 @@
           
           {
             "type": "AnnotationPage",
+            "id": "https://nowviskie.github.io/BN-test-Yaounde-Olu/interview-with-yaound-olu-artist-writer-astrologer-uniphysician-chicago-illinois/canvas-1/canvas/environmental.json",
+            "label": "Environmental"
+          }
+          ,
+          {
+            "type": "AnnotationPage",
             "id": "https://nowviskie.github.io/BN-test-Yaounde-Olu/interview-with-yaound-olu-artist-writer-astrologer-uniphysician-chicago-illinois/canvas-1/canvas/transcription.json",
             "label": "Transcription"
           }
